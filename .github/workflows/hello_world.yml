@@ -1,0 +1,12 @@
+name: Hello world !
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  hello_world:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hello world step
+        run: echo "Hello world !"
