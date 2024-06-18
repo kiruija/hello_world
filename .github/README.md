@@ -1,0 +1,1 @@
+[![Hello world !](https://github.com/kiruija/hello_world/actions/workflows/hello_world.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/kiruija/hello_world/actions/workflows/hello_world.yml)
